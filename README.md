@@ -48,7 +48,7 @@ Here's a walkthrough of implemented user stories:
 
 https://i.imgur.com/W1L495U.mp4
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with windows snapping tool 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
